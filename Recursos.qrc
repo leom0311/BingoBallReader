@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>images/logomini.png</file>
+        <file>images/fondo5.png</file>
+    </qresource>
+</RCC>
